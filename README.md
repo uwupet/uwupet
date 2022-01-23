@@ -1,8 +1,7 @@
 ### Heyo, Foshka here
 
 You found my personal github profile, have a look around!
-
-I'm a software development graduate and my main interests are web, mobile and other emerging interface tech.
+My main interests are web, mobile and other emerging interface tech.
 If you want to get in touch, feel free to reach out via the email listed in my bio.
 
 This profile has no relation whatsoever to my past or current employers.
